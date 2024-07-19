@@ -1,0 +1,5 @@
+﻿refkey1,refdata1,refkey2,refdata2,refdata3,refdata4
+REF1,Data1,KEY1,Data2,Data3,2.5
+REF2,Data4,KEY2,Data3,Data6,3.5
+REF1,Data1,KEY1,Data7,Data8,2
+REF3,Data9,KEY3,Data10,Data11,1.5
